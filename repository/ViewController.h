@@ -19,6 +19,8 @@
 @property NSString * anil;
 
 @property NSString * imran;
+@property NSString *Ram;
+
 
 
 
