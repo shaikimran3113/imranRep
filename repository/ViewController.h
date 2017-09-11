@@ -14,6 +14,9 @@
 @property NSString * test;
 
 
+@property int a;
+
+
 
 @end
 
