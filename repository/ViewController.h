@@ -20,7 +20,7 @@
 
 @property NSString * imran;
 @property NSString *Ram;
-
+@property NSString *Ram1;
 
 
 
