@@ -18,6 +18,8 @@
 
 @property NSString * anil;
 
+@property NSString * imran;
+
 
 
 
