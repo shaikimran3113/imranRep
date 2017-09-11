@@ -16,6 +16,9 @@
 
 @property int a;
 
+@property NSString * anil;
+
+
 
 
 @end
